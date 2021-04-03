@@ -5,8 +5,7 @@
 
 # 🌌 Funcionalidade:
 
-**Após um ciclo de trabalho de 25 minutos, uma notificaçõa será chamada, e sera apresentado para o usuario um desafio, podendo ser desafios para exercitar o copo ou os olhos.**
-**Assim que o desafio aparecer um tela, o usuario podera completar ou falhar. Ao completar o desafio, o usuario recebera uma quantidade de XP, para poder subir de nivel.**
+**Após um ciclo de trabalho de 25 minutos, uma notificação será chamada, e será apresentado para o usuário um desafio, podendo ser desafios para exercitar o copo ou os olhos. Assim que o desafio aparecer em tela, o usuário poderá completar ou falhar. Ao completar o desafio, o usuário recebera uma quantidade de XP, para poder subir de nível.**
 
 
 # ⚠️ Pacotes instalados:
@@ -28,6 +27,7 @@
 ## 🎇 Minhas redes sociais:
 
 **Instagram: https://www.instagram.com/luis_marchio/**
+
 **Linkedin: https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/**
 
 
