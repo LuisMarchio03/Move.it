@@ -1,6 +1,6 @@
 # Move.it 🚀
 
-<img src="./public/logo-full.svg" />{: .center-image }
+<img src="./public/logo-full.svg" {: .center-image }/>
 
 
 ## 🌌 Funcionalidade:
