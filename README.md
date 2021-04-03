@@ -21,7 +21,8 @@
 
 **Tem alguma ideia para melhorar o projeto?**
 
-**Clone o repositorio, ao final da edição, envie um pull request**
+**1- Clone o repositorio** 
+**2- Ao final da edição, envie um pull request**
 
 **O projeto está bem facil de entender!**
 
