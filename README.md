@@ -19,6 +19,8 @@
 
 ## :octocat: Como posso contribuir para o projeto?
 
+**Tem alguma ideia para melhorar o projeto?**
+
 **Clone o repositorio, ao final da edição, envie um pull request**
 
 **O projeto está bem facil de entender!**
